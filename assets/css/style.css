@@ -1165,3 +1165,9 @@ section .container {
     text-align: center;
     margin-top: 20px;
 }
+
+.name {
+    font-family: 'Tangerine', serif;
+    font-size: 48px;
+    text-shadow: 4px 4px 4px #aaa;
+}
